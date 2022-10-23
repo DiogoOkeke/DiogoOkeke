@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hiii👋. I'm Chidiogo.
+A budding Front-end developer.
 
 <!--
 **DiogoOkeke/DiogoOkeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌐 Based in Lagos, Nigeria.
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m open to collaborate on projects and also contributing to open source.
+- 📫 You can reach me via my mail: okekechidiogoc@gmail.com 
