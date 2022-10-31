@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌐 Based in Lagos, Nigeria.
-- 🌱 I’m currently learning technologies in frontend.
+- 🌱 I’m currently learning technologies in Front-end.
 - 👯 I’m open to collaborate on projects and also contributing to open source.
 - 📫 You can reach me via my mail: okekechidiogoc@gmail.com 
